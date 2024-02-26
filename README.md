@@ -7,3 +7,4 @@ Best Analog Clock, pure JavaScript
 - JavaScript
 
 # Link
+https://saleh0987.github.io/js-clock/
